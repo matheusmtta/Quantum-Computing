@@ -27,17 +27,11 @@ So the question is, how quantum computers could solve these kind of problems som
 
 Our classical computers, those that we've in home, desktops, notebooks, cellphones all of them in the deepest level stores the information as different sequences of **0s** and **1s**, so as **0100100100** where each entrie is either 0 or either 1. What makes a huge difference when we compare it with how the quantum computers stores information and work with it, where a state 0 or 1 can be seen as a unitary vector state $|\psi\rangle$ in a Hilbert space $\mathcal{H}$ or a Qubit, in the computational basis, defined as:
 
+![equation1](https://user-images.githubusercontent.com/48037841/69909312-34ec8180-13d8-11ea-9600-bfd827f04ea9.png#center)
 
-$$\left|\psi\right\rangle = \alpha\left|0\right\rangle + \beta\left|1\right\rangle$$
+![equation2](https://user-images.githubusercontent.com/48037841/69909352-19ce4180-13d9-11ea-8317-6df03033af8b.png)
 
-$$|\alpha|^2 + |\beta|^2 = 1$$
-
-
-![image.png](attachment:image.png)
-
-
-
-
+![image1](https://user-images.githubusercontent.com/48037841/69909360-31a5c580-13d9-11ea-9e00-de38f4673812.png)
 
 Where the scalars alpha and beta are used to see the amplitude of each state, or more generally, its probability to colapse over its respective state $|0\rangle$ or $|1\rangle$, which is like we could have all possible states at the same time, but we can only measure and see a small piece of this huge information.
 
