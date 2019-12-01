@@ -6,7 +6,7 @@ In 1981, the Nobel laureate Richard Feynman asked, “What kind of computer are 
 
 *Nature isn’t classical, dammit, and if you want to make a simulation of Nature, you’d better make it quantum mechanical, and by golly it’s a wonderful problem, because it doesn’t look so easy.*
 
-Richard Feynman speech can be used to see how powerful quantum computing could be to let us understand more about our universe, since quantum physics try to explain and understand how our universe is built from the deepest subatomic dimensions to huge macroscopic phenomena. What can lead as to ask ourselves if our classical compurters are going to be able to solve and deal with problems that nature by essence shows to be a quantum complex behavior, that most likely are exponential problems for our classical computers, like the protein folding process, where dealing with several 
+Richard Feynman speech can be used to see how powerful quantum computing could be to let us understand more about our universe, since quantum physics try to explain and understand how our universe is built from the deepest subatomic dimensions to huge macroscopic phenomena. What can lead us to ask ourselves if our classical compurters are going to be able to solve and deal with problems that nature by its essence shows to be a quantum complex behavior, that most likely are exponential problems for our classical computers, like the protein folding process, where dealing with several 
 amino acids combinations we've that as the number of configurations grows the dimesion of our problem grows exponencially, which is impossible for a classical computer to solve nowdays.
 
 So the question is, how quantum computers could solve these kind of problems some day ? With a different model of treating information closer with how our universe and nature behave, from the deepest levels and beyond.
@@ -27,4 +27,4 @@ Where if we measure one of the Qubits we know exactly the state of the other, ev
 
 ## Programming with Quantum Gates
 
-While in Classical Computers works by applying simple boolean operators like *NOT, NAND, XOR, AND, OR*, Quantum Computers works with Quantum Gates, which mathematically speaking are unitary operators, that manipulates our state over the bloch sphere.
+While in Classical Computers works by applying simple boolean operators like *NOT, NAND, XOR, AND, OR*, Quantum Computers works with Quantum Gates, which mathematically speaking are unitary operators.
