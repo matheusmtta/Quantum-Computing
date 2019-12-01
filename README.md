@@ -28,8 +28,7 @@ So the question is, how quantum computers could solve these kind of problems som
 Our classical computers, those that we've in home, desktops, notebooks, cellphones all of them in the deepest level stores the information as different sequences of **0s** and **1s**, so as **0100100100** where each entrie is either 0 or either 1. What makes a huge difference when we compare it with how the quantum computers stores information and work with it, where a state 0 or 1 can be seen as a unitary vector state $|\psi\rangle$ in a Hilbert space $\mathcal{H}$ or a Qubit, in the computational basis, defined as:
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+![Image description](https://latex2png.com/pngs/9d911cea6c6345c023f31d742650c8f6.png)
 
 $$|\alpha|^2 + |\beta|^2 = 1$$
 
