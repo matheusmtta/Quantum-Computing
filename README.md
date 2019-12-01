@@ -35,10 +35,3 @@ Where if we measure one of the Qubits we know exactly the state of the other, ev
 ## Programming with Quantum Gates
 
 While in Classical Computers works by applying simple boolean operators like (NOT, NAND, XOR, AND, OR), Quantum Computers works Quantum Gates, which mathematically speaking are unitary operators, that manipulates our state over the bloch sphere.
-
-In this context the gates that we'll use are those that work in an unique qubit, therefore our operators will be defined by $M_{2x2}$ matrices over a state $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$, and some of those operators are the Pauli Matrices.
-
-![image.png](attachment:image.png)
-
-As we already settled superposition is a important feature in quantum computing, how we can solve problems over multiple states at the same time, so if we've a state and want to put it on superposition we can apply we one of the most common and important quantum gates, the Hadarmard Gate.
-
