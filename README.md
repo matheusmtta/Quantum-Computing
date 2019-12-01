@@ -31,3 +31,4 @@ While Classical Computers works with simple boolean operators like *NOT, NAND, X
 
 
 [More information](https://github.com/matheusmtta/Quantum-Computing/blob/master/quantum_computing_intro.pdf)
+or [Download](https://github.com/matheusmtta/Quantum-Computing/blob/master/quantum_computing_intro.ipynb) this notebook.
