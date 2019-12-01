@@ -34,4 +34,4 @@ Where if we measure one of the Qubits we know exactly the state of the other, ev
 
 ## Programming with Quantum Gates
 
-While in Classical Computers works by applying simple boolean operators like (NOT, NAND, XOR, AND, OR), Quantum Computers works Quantum Gates, which mathematically speaking are unitary operators, that manipulates our state over the bloch sphere.
+While in Classical Computers works by applying simple boolean operators like *NOT, NAND, XOR, AND, OR*, Quantum Computers works with Quantum Gates, which mathematically speaking are unitary operators, that manipulates our state over the bloch sphere.
