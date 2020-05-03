@@ -30,5 +30,5 @@ Where if we measure one of the Qubits we know exactly the state of the other, ev
 While Classical Computers works with simple boolean operators like *NOT, NAND, XOR, AND, OR*, Quantum Computers works with Quantum Gates, which mathematically speaking are unitary operators.
 
 
-[More information](https://github.com/matheusmtta/Quantum-Computing/blob/master/quantum_computing_intro.pdf)
+[More information](https://github.com/matheusmtta/Quantum-Computing/blob/master/Introduction.ipynb)
 or [Download](https://github.com/matheusmtta/Quantum-Computing/blob/master/quantum_computing_intro.ipynb) this notebook.
