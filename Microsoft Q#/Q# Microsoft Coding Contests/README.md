@@ -1,2 +1,2 @@
-## Q# Exercise solutions for Microsoft Quantum Conding Competitions Problems
+## Q# Solutions for Microsoft Quantum Conding Competitions Problems
 
