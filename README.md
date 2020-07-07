@@ -51,3 +51,5 @@ This last section is focused on Quantum Information and Algebraic Combinatorics 
 * [Continuous Time Quantum Walks]()
 * [Quantum State Transfer]()
 * [Switching Graphs]()
+
+Further, you'll also be able to find my code from Quantum Programming Competitions hosted by Microsoft [here](https://github.com/matheusmtta/Quantum-Computing/tree/master/Microsoft%20Q%23) 
