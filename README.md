@@ -35,6 +35,18 @@ or [Download](https://github.com/matheusmtta/Quantum-Computing/blob/master/quant
 
 # About this repository
 
-This repository is focused into give some knowledge about Quantum Computing and Quantum Information Theory, from basic Linear Algebra and Complex Arithmetic to understanding of Quantum Algorithms, Quatum Criptography Protocols and Quantum Information Theory, where we'll discuss some aspects o Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts.
+This repository is focused into give some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts. From theoretical aspects to Quantum Programming using the Microsoft Q\# language and the IBM Qiskit.
 
+* Linear Algebra and Complex Arithmetic basics
+* Graph Theory basics
 
+* Introduction to Quantum Computing
+* Deutsch-Josza Algorithm
+* Grover Algorithm
+* Quantum Fourier Transform
+* Shor's Algorithm
+* Quantum Criptography
+
+* Continuous Time Quantum Walks
+* Quantum State Transfer
+* Switching Graphs
