@@ -17,13 +17,11 @@ Our classical computers, those that we've in home, desktops, notebooks, cellphon
 
 ## Quantum Superpostion and Entanglement
 
-As we're dealing with quantum behavior some pretty important features of quantum mechanics that are used in quantum computing are the **Quantum Superposition** and the **Quantum Entanglement**. If were given to us a state $\psi$, when neither of its constants, are null, we say that this state is in **superpostion**. More generally, which means that before a potential measure a phisical system is partially over all possible existants theoretical states.
+As we're dealing with quantum behavior some pretty important features of quantum mechanics that are used in quantum computing are the **Quantum Superposition** and the **Quantum Entanglement**. If were given to us a particular state, and neither of its constants, are null, we say that this state is in **superpostion**. More generally, which means that before a potential measure a phisical system is partially over all possible existants theoretical states.
 
 However when we measure it, it colapses to a unique state, so its like nature is doing a massive work, but it is willing to share with us just a small piece of it, a hint, for us to solve some very difficult problems.
 
-If a state can not be writen by the tensor product of other states we've that this states is **entangled**, so as the wellknown Bell-State.
-
-Where if we measure one of the Qubits we know exactly the state of the other, even if the other Qubit is in the other side of the galaxy, with is forbidden by the theory of relativity, since it would be faster then the speed of light, which is known as the *EPR Paradox*.
+If a state can not be writen by the tensor product of other states we've that this states is **entangled**, so as the wellknown Bell-States. Where if we measure one of the Qubits we know exactly the state of the other, even if the other Qubit is in the other side of the galaxy, with is forbidden by the theory of relativity, since it would be faster then the speed of light, which is known as the *EPR Paradox*.
 
 ## Programming with Quantum Gates
 
@@ -37,16 +35,19 @@ or [Download](https://github.com/matheusmtta/Quantum-Computing/blob/master/quant
 
 This repository is focused into give some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts. From theoretical aspects to Quantum Programming using the Microsoft Q\# language and the IBM Qiskit.
 
-* Linear Algebra and Complex Arithmetic basics
-* Graph Theory basics
+These first two articles give us a brief introduction about basics of Linear Algebra, Complex Arithmetic and Graph Theory that will be needed to a deeper understanding of the more advacend articles
+* [Linear Algebra and Complex Arithmetic basics]()
+* [Graph Theory basics]()
 
-* Introduction to Quantum Computing
-* Deutsch-Josza Algorithm
-* Grover Algorithm
-* Quantum Fourier Transform
-* Shor's Algorithm
-* Quantum Criptography
+In the following articles we will see more clearly concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms.
+* [Introduction to Quantum Computing]() 
+* [Deutsch-Josza Algorithm]()
+* [Grover Algorithm]()
+* [Quantum Fourier Transform]()
+* [Shor's Algorithm]()
+* [Quantum Criptography]()
 
-* Continuous Time Quantum Walks
-* Quantum State Transfer
-* Switching Graphs
+This last section is focused on Quantum Information and Algebraic Combinatorics concepts
+* [Continuous Time Quantum Walks]()
+* [Quantum State Transfer]()
+* [Switching Graphs]()
