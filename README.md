@@ -13,7 +13,7 @@ So the question is, how quantum computers could solve these kind of problems som
 
 ## Classical Bit vs Qubit
 
-Our classical computers, those that we've in home, desktops, notebooks, cellphones all of them in the deepest level stores the information as different sequences of **0s** and **1s**, so as **0100100100** where each entrie is either 0 or either 1. What makes a huge difference when we compare it with how the quantum computers stores information and work with it, where a state 0 or 1 can be seen as a unitary vector state in a Hilbert space or a Qubit, in the computational basis, defined as a superposition of 0 and 1 with scalars associated used to see the amplitude of each state, or more generally, its probability to colapse over the possible states, which is like we could have all possible states at the same time, but we can only measure and see a small piece of this huge information.
+Our classical computers, those that we've in home, desktops, notebooks, cellphones all of them in the deepest level stores the information as different sequences of **0s** and **1s**, so as **0101100101** where each entrie is either 0 or either 1. What makes a huge difference when we compare it with how the quantum computers stores information and work with it, where a state 0 or 1 can be seen as a unitary vector state in a Hilbert space or a Qubit, in the computational basis, defined as a superposition of 0 and 1 with scalars associated used to see the amplitude of each state, or more generally, its probability to colapse over the possible states, which is like we could have all possible states at the same time, but we can only measure and see a small piece of this huge information.
 
 ## Quantum Superpostion and Entanglement
 
@@ -27,8 +27,14 @@ Where if we measure one of the Qubits we know exactly the state of the other, ev
 
 ## Programming with Quantum Gates
 
-While Classical Computers works with simple boolean operators like *NOT, NAND, XOR, AND, OR*, Quantum Computers works with Quantum Gates, which mathematically speaking are unitary operators.
+While Classical Computers works with simple boolean operators like *NOT, NAND, XOR, AND, OR*, Quantum Computers works with Quantum Gates, which mathematically speaking are unitary operators. 
 
 
 [More information](https://github.com/matheusmtta/Quantum-Computing/blob/master/Introduction.ipynb)
 or [Download](https://github.com/matheusmtta/Quantum-Computing/blob/master/quantum_computing_intro.ipynb) this notebook.
+
+# About this repository
+
+This repository is focused into give some knowledge about Quantum Computing and Quantum Information Theory, from basic Linear Algebra and Complex Arithmetic to understanding of Quantum Algorithms, Quatum Criptography Protocols and Quantum Information Theory, where we'll discuss some aspects o Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts.
+
+
