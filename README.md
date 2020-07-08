@@ -35,19 +35,34 @@ or [Download](https://github.com/matheusmtta/Quantum-Computing/blob/master/quant
 
 This repository is focused into give some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts. From theoretical aspects to Quantum Programming using the Microsoft Q\# language and the IBM Qiskit.
 
-These first two articles give us a brief introduction about basics of Linear Algebra, Complex Arithmetic and Graph Theory that will be needed to a deeper understanding of the more advacend articles
-* [Linear Algebra and Complex Arithmetic basics]()
-* [Graph Theory basics]()
+These first articles give us a brief introduction about basics of Linear Algebra, Complex Arithmetic, Quantum Mechanics and Graph Theory that will be needed to a deeper understanding of the more advacend articles
+
+## Fundamentals
+* [Programming]()
+* [Quantum Mechanics]() 
+* [Math]()
+	* [Complex Arithmetic]()
+	* [Linear Algebra]()
+	* [Statistics and Probability]()
+	* [Graph Theory]()
 
 In the following articles we will see more clearly concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms.
-* [Introduction to Quantum Computing]() 
-* [Deutsch-Josza Algorithm]()
-* [Grover Algorithm]()
-* [Quantum Fourier Transform]()
-* [Shor's Algorithm]()
-* [Quantum Criptography]()
 
-This last section is focused on Quantum Information and Algebraic Combinatorics concepts
+* [Quantum Computing History]()
+* [Introduction to Quantum Computing]() 
+	* [Qubit and Quantum States]()
+	* [Single Qubit Gates]()
+	* [Multi Qubit Gates]()
+	* [Fun stuff]()
+* [Algorithms]()
+	* [Grover Algorithm]()
+	* [Deutsch-Josza Algorithm]()
+	* [Quantum Fourier Transform]()
+	* [Shor's Algorithm]()
+* [Quantum Criptography]()
+	* [BB84 Protocol]()
+
+This last section is focused on Quantum Information and Algebraic Combinatorics advanced topics
 * [Continuous Time Quantum Walks]()
 * [Quantum State Transfer]()
 * [Switching Graphs]()
