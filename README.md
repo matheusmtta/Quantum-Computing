@@ -46,6 +46,7 @@ These first articles give us a brief introduction about basics of Linear Algebra
 	* [Statistics and Probability]()
 	* [Graph Theory]()
 
+## Quantum Computing
 In the following articles we will see more clearly concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms.
 
 * [Quantum Computing History]()
@@ -61,7 +62,8 @@ In the following articles we will see more clearly concepts of Quantum Computing
 	* [Shor's Algorithm]()
 * [Quantum Criptography]()
 	* [BB84 Protocol]()
-
+	
+## Quantum Information Theory
 This last section is focused on Quantum Information and Algebraic Combinatorics advanced topics
 * [Continuous Time Quantum Walks]()
 * [Quantum State Transfer]()
