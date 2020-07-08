@@ -50,6 +50,9 @@ These first articles give us a brief introduction about basics of Linear Algebra
 In the following articles we will see more clearly concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms.
 
 * [Quantum Computing History]()
+	* [Python3]()
+	* [IBM Qiskit]()
+	* [Microsoft Q#]()
 * [Introduction to Quantum Computing]() 
 	* [Qubit and Quantum States]()
 	* [Single Qubit Gates]()
