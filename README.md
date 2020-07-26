@@ -59,7 +59,7 @@ In the following articles we will see more clearly concepts of Quantum Computing
 	* [Multi Qubit Gates]()
 	* [Fun stuff]()
 * [Algorithms]()
-	* [Deutsch-Josza Algorithm]()
+	* [Deutsch-Josza Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Deutsch-Josza.ipynb)
 	* [Grover Algorithm]()
 	* [Quantum Fourier Transform]()
 	* [Quantum Phase Estimation]()
