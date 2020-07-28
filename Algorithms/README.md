@@ -5,8 +5,8 @@ In this session of the repository you will find detailed explanations about Quan
 I still adding the algorithms notebooks, and I would STRONGLY RECOMMEND YOU to download the notebooks to get a better experience on reading and understanding them.
 
 ## Algorithms
-* [Programming]()
-* [Quantum Mechanics]() 
+* [Deutsch-Josza Algorithm]()
+* [Grover's Algorithm]() 
 * [Quantum Fourier Transform]()
 * [Quantum Phase Estimation]()
 * [Shor's Algorithm]()
