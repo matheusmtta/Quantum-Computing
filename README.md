@@ -6,16 +6,15 @@ In 1981, the Nobel laureate Richard Feynman asked, “What kind of computer are 
 
 *Nature isn’t classical, dammit, and if you want to make a simulation of Nature, you’d better make it quantum mechanical, and by golly it’s a wonderful problem, because it doesn’t look so easy.*
 
-Richard Feynman speech can be used to see how powerful quantum computing could be to let us understand more about our universe, since quantum physics try to explain and understand how our universe is built from the deepest subatomic dimensions to huge macroscopic phenomena. What can lead us to ask ourselves if our classical compurters are going to be able to solve and deal with problems that nature by its essence shows to be a quantum complex behavior, that most likely are exponential problems for our classical computers, like the protein folding process, where dealing with several 
-amino acids combinations we've that as the number of configurations grows the dimesion of our problem grows exponencially, which is impossible for a classical computer to solve nowdays.
+Richard Feynman speech can be used to see how powerful quantum computing can be into let us understand more about our universe since quantum physics tries to explain and interpret how our universe is built from the deepest subatomic dimensions to huge macroscopic phenomena. This can lead us to ask ourselves if our classical computers are going to be able to deal with problems that nature by its essence shows us to be a quantum complex behavior, where most of them are exponential problems, which are unfeasible for our classical computers to solve nowadays at a scalable time.
 
-So the question is, how quantum computers could solve these kind of problems some day ? With a different model of treating information closer with how our universe and nature behave, from the deepest levels and beyond.
+So the question is, how quantum computers could solve these kinds of problems someday? With a perspective on treating information, closer with how our universe and nature behave, from the deepest levels and beyond.
 
 # About this repository
 
-This repository is focused into give some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts. From theoretical aspects to Quantum Programming using the Microsoft Q\# language and the IBM Qiskit.
+This repository is focused on giving some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols, and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts. From theoretical aspects to Quantum Programming using the Microsoft Q\# language and the IBM Qiskit.
 
-These first articles give us a brief introduction about basics of Linear Algebra, Complex Arithmetic, Quantum Mechanics and Graph Theory that will be needed to a deeper understanding of the more advacend articles
+These first articles give us a brief introduction about the basics of Linear Algebra, Complex Arithmetic, Quantum Mechanics and Graph Theory that will be needed to a deeper understanding of the more advanced articles
 
 ## Fundamentals
 * [Programming]()
