@@ -45,6 +45,7 @@ In the following articles we will see more clearly concepts of Quantum Computing
 	* [Shor's Algorithm]()
 * [Quantum Criptography]()
 	* [BB84 Protocol]()
+* [Circuits]()
 	
 ## Quantum Information Theory
 This last section is focused on Quantum Information and Algebraic Combinatorics advanced topics
