@@ -18,7 +18,8 @@ These first articles give us a brief introduction about the basics of Linear Alg
 
 ## Fundamentals
 * [Programming]()
-	<> * [Python3]()
+[//]: # "Comment"
+	* [Python3]()
 	* [IBM Qiskit]()
 	* [Microsoft Q#]()
 * [Quantum Mechanics]() 
