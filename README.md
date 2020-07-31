@@ -18,7 +18,6 @@ These first articles give us a brief introduction about the basics of Linear Alg
 
 ## Fundamentals
 * [Programming]()
-[//]: # "Comment"
 	* [Python3]()
 	* [IBM Qiskit]()
 	* [Microsoft Q#]()
@@ -34,7 +33,7 @@ In the following articles we will see more clearly concepts of Quantum Computing
 
 * [Quantum Computing History]()
 * [Introduction to Quantum Computing]() 
-	* [Qubit and Quantum States]()
+	* [Qubit and Quantum States](https://github.com/matheusmtta/Quantum-Computing/blob/master/Introduction/Single%20Qubit%20Gates.ipynb)
 	* [Single Qubit Gates]()
 	* [Multi Qubit Gates]()
 	* [Fun stuff]()
@@ -50,8 +49,9 @@ In the following articles we will see more clearly concepts of Quantum Computing
 	
 ## Quantum Information Theory
 This last section is focused on Quantum Information and Algebraic Combinatorics advanced topics
-* [Continuous Time Quantum Walks]()
-* [Quantum State Transfer]()
+* [Continuous Time Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/Continuous_Time_Quantum_Walks.ipynb)
+* [Discrete Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/Coin_Quantum_Walk.ipynb)
+* [Quantum State Transfer](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/State_Transfer.ipynb)
 * [Switching Graphs]()
 
 Further, you'll also be able to find my code from Quantum Programming Competitions hosted by Microsoft [here](https://github.com/matheusmtta/Quantum-Computing/tree/master/Microsoft%20Q%23) 
