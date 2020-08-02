@@ -24,27 +24,25 @@ These first articles give us a brief introduction about the basics of Linear Alg
 ## Quantum Computing
 In the following articles we will see more clearly concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms.
 
-* [Quantum Computing History]()
 * [Introduction to Quantum Computing]() 
-	* [Qubit and Quantum States](https://github.com/matheusmtta/Quantum-Computing/blob/master/Introduction/Single%20Qubit%20Gates.ipynb)
+	* [Qubit and Quantum States]()
 	* [Single Qubit Gates]()
 	* [Multi Qubit Gates]()
 	* [Fun stuff]()
 * [Algorithms]()
 	* [Deutsch-Josza Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Deutsch-Josza.ipynb)
 	* [Grover Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Grover.ipynb)
-	* [Quantum Fourier Transform]()
+	* [Quantum Fourier Transform](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/QFT.ipynb)
 	* [Quantum Phase Estimation]()
 	* [Shor's Algorithm]()
 * [Quantum Criptography]()
 	* [BB84 Protocol]()
-* [Circuits]()
+* [Circuits](https://github.com/matheusmtta/Quantum-Computing/tree/master/Circuits)
 	
 ## Quantum Information Theory
 This last section is focused on Quantum Information and Algebraic Combinatorics advanced topics
 * [Continuous Time Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/Continuous_Time_Quantum_Walks.ipynb)
 * [Discrete Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/Coin_Quantum_Walk.ipynb)
 * [Quantum State Transfer](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/State_Transfer.ipynb)
-* [Switching Graphs]()
 
 Further, you'll also be able to find my code from Quantum Programming Competitions hosted by Microsoft [here](https://github.com/matheusmtta/Quantum-Computing/tree/master/Microsoft%20Q%23) 
