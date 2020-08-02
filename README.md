@@ -17,10 +17,9 @@ This repository is focused on giving some knowledge about Quantum Computing and 
 These first articles give us a brief introduction about the basics of Linear Algebra, Complex Arithmetic, Quantum Mechanics and Graph Theory that will be needed to a deeper understanding of the more advanced articles
 
 ## Fundamentals
-	* [Complex Arithmetic]()
-	* [Linear Algebra]()
-	* [Statistics and Probability]()
-	* [Graph Theory]()
+* [Complex Arithmetic]()
+* [Linear Algebra]()
+* [Graph Theory]()
 
 ## Quantum Computing
 In the following articles we will see more clearly concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms.
