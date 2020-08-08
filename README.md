@@ -12,7 +12,7 @@ So the question is, how quantum computers could solve these kinds of problems so
 
 # About this repository
 
-This repository is focused on giving some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols, and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts. From theoretical aspects to Quantum Programming using the Microsoft Q\# language and the IBM Qiskit.
+This repository is focused on giving some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols, and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts. From theoretical aspects to Quantum Programming using the IBM Qiskit.
 
 These first articles give us a brief introduction about the basics of Linear Algebra, Complex Arithmetic, Quantum Mechanics and Graph Theory that will be needed to a deeper understanding of the more advanced articles
 
