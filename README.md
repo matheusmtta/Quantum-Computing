@@ -12,9 +12,9 @@ So the question is, how quantum computers could solve these kinds of problems so
 
 # About this repository
 
-This repository is focused on giving some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols, and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts. From theoretical aspects to Quantum Programming using the IBM Qiskit.
+This repository is focused on giving some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols, and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts, from the theoretical aspects till Quantum Programming with the IBM Qiskit.
 
-These first articles give us a brief introduction about the basics of Linear Algebra, Complex Arithmetic, Quantum Mechanics and Graph Theory that will be needed to a deeper understanding of the more advanced articles
+These first notebooks give us a brief introduction about the basics of Linear Algebra, Complex Arithmetic, Quantum Mechanics and Graph Theory that will be needed to a deeper understanding of the more advanced articles
 
 ## Fundamentals
 * [Linear Algebra](https://github.com/matheusmtta/Quantum-Computing/blob/master/Fundamentals/Linear%20Algebra.ipynb)
@@ -23,19 +23,19 @@ These first articles give us a brief introduction about the basics of Linear Alg
 ## Quantum Computing
 In the following articles we will see detailed concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms and its implementations in Qiskit.
 
-* [Introduction to Quantum Computing]() 
-	* [Qubit and Quantum States]()
-	* [Single Qubit Gates]()
-	* [Multi Qubit Gates]()
-	* [Fun stuff]()
-* [Algorithms]()
+* Introduction to Quantum Computing 
+	* Qubit and Quantum States
+	* Single Qubit Gates
+	* Multi Qubit Gates
+	* Fun stuff
+* [Algorithms](https://github.com/matheusmtta/Quantum-Computing/tree/master/Algorithms)
 	* [Deutsch-Josza Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Deutsch-Josza.ipynb)
 	* [Grover Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Grover.ipynb)
 	* [Quantum Fourier Transform](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/QFT.ipynb)
-	* [Quantum Phase Estimation]()
-	* [Shor's Algorithm]()
-* [Quantum Criptography]()
-	* [BB84 Protocol]()
+	* Quantum Phase Estimation
+	* Shor's Algorithm
+* Quantum Criptography
+	* BB84 Protocol
 * [Circuits](https://github.com/matheusmtta/Quantum-Computing/tree/master/Circuits)
 	
 ## Quantum Information Theory
