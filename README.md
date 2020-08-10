@@ -40,7 +40,7 @@ In the following articles we will see detailed concepts of Quantum Computing, fr
 	
 ## Quantum Information Theory
 This last section is focused on Quantum Information and Algebraic Combinatorics advanced topics
-* [Continuous Time Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/Continuous_Time_Quantum_Walks.ipynb)
+* [Continuous Time Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/ContinuousTimeQuantumWalks.ipynb)
 * [Discrete Time Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/DiscreteTimeQuantumWalk.ipynb)
 * [Quantum State Transfer](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/StateTransfer.ipynb)
 
