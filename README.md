@@ -18,7 +18,7 @@ These first notebooks give us a brief introduction about the basics of Linear Al
 
 ## Fundamentals
 * [Linear Algebra](https://github.com/matheusmtta/Quantum-Computing/blob/master/Fundamentals/Linear%20Algebra.ipynb)
-* [Graph Theory]()
+* Graph Theory
 
 ## Quantum Computing
 In the following articles we will see detailed concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms and its implementations in Qiskit.
@@ -45,5 +45,3 @@ This last section is focused on Quantum Information and Algebraic Combinatorics 
 * [Quantum State Transfer](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/State_Transfer.ipynb)
 
 Further, you'll also be able to find my code from Quantum Programming Competitions hosted by Microsoft [here](https://github.com/matheusmtta/Quantum-Computing/tree/master/Microsoft%20Q%23) 
-
-(CURRENTLY IN DEVELOPMENT)
