@@ -17,8 +17,7 @@ This repository is focused on giving some knowledge about Quantum Computing and 
 These first articles give us a brief introduction about the basics of Linear Algebra, Complex Arithmetic, Quantum Mechanics and Graph Theory that will be needed to a deeper understanding of the more advanced articles
 
 ## Fundamentals
-* [Complex Arithmetic]()
-* [Linear Algebra]()
+* [Linear Algebra](https://github.com/matheusmtta/Quantum-Computing/blob/master/Fundamentals/Linear%20Algebra.ipynb)
 * [Graph Theory]()
 
 ## Quantum Computing
@@ -42,7 +41,7 @@ In the following articles we will see more clearly concepts of Quantum Computing
 ## Quantum Information Theory
 This last section is focused on Quantum Information and Algebraic Combinatorics advanced topics
 * [Continuous Time Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/Continuous_Time_Quantum_Walks.ipynb)
-* [Discrete Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/Coin_Quantum_Walk.ipynb)
+* [Discrete Time Quantum Walks](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/DiscreteTimeQuantumWalk.ipynb)
 * [Quantum State Transfer](https://github.com/matheusmtta/Quantum-Computing/blob/master/Quantum%20Information%20Theory/State_Transfer.ipynb)
 
 Further, you'll also be able to find my code from Quantum Programming Competitions hosted by Microsoft [here](https://github.com/matheusmtta/Quantum-Computing/tree/master/Microsoft%20Q%23) 
