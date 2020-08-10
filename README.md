@@ -23,7 +23,7 @@ These first notebooks give us a brief introduction about the basics of Linear Al
 ## Quantum Computing
 In the following articles we will see detailed concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms and its implementations in Qiskit.
 
-* Introduction to Quantum Computing 
+* Introduction
 	* Qubit and Quantum States
 	* Single Qubit Gates
 	* Multi Qubit Gates
