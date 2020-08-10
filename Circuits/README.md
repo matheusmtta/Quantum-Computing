@@ -8,10 +8,10 @@ I still adding the circuits notebooks, and I would STRONGLY RECOMMEND YOU to dow
 * [Increment](https://github.com/matheusmtta/Quantum-Computing/blob/master/Circuits/Increment.ipynb)
 * [Decrement](https://github.com/matheusmtta/Quantum-Computing/blob/master/Circuits/Decrement.ipynb) 
 * [Build GHZ State](https://github.com/matheusmtta/Quantum-Computing/blob/master/Circuits/BuildGHZ.ipynb)
-* [Build W State]()
+* Build W State
 * [Build Bell State](https://github.com/matheusmtta/Quantum-Computing/blob/master/Circuits/BuildBell.ipynb)
 * [Quantum Fourier Transform](https://github.com/matheusmtta/Quantum-Computing/blob/master/Circuits/QFT.ipynb)
-* [Fractional Quantum Fourier Transform]()
-* [Superdense Conding]()
-* [Quantum Teleport]()
-* [Quantum Palindrome Checker]()
+* Fractional Quantum Fourier Transform
+* Superdense Conding
+* Quantum Teleport
+* Quantum Palindrome Checker
