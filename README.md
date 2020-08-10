@@ -21,7 +21,7 @@ These first articles give us a brief introduction about the basics of Linear Alg
 * [Graph Theory]()
 
 ## Quantum Computing
-In the following articles we will see more clearly concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms.
+In the following articles we will see detailed concepts of Quantum Computing, from well-known aspects like Quantum Superposition and Entanglement to simple and more complex Quantum Algorithms and its implementations in Qiskit.
 
 * [Introduction to Quantum Computing]() 
 	* [Qubit and Quantum States]()
