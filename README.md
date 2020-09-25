@@ -37,6 +37,7 @@ In the following notebooks we will see detailed Quantum Computing concepts, from
 * Quantum Criptography
 	* BB84 Protocol
 * [Circuits](https://github.com/matheusmtta/Quantum-Computing/tree/master/Circuits)
+* [Quantum Machine Learning](https://github.com/matheusmtta/Quantum-Machine-Learning)
 	
 ## Quantum Information Theory
 This last section is focused on Quantum Information and Algebraic Combinatorics 
