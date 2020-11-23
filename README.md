@@ -32,7 +32,7 @@ In the following notebooks we will see detailed Quantum Computing concepts, from
 	* [Deutsch-Josza Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Deutsch-Josza.ipynb)
 	* [Grover Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Grover.ipynb)
 	* [Quantum Fourier Transform](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/QFT.ipynb)
-	* Quantum Phase Estimation
+	* [Quantum Phase Estimation](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/QPE.ipynb)
 	* Shor's Algorithm
 * Quantum Criptography
 	* BB84 Protocol
