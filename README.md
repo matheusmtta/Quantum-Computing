@@ -14,28 +14,15 @@ So the question is, how quantum computers could solve these kinds of problems so
 
 This repository is focused on giving some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols, and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts, from the theoretical aspects till Quantum Programming with the IBM Qiskit.
 
-These first notebooks give us a brief introduction about the basics of Linear Algebra, and Graph Theory that will be needed to a deeper understanding of the more advanced notebooks.
-
-## Fundamentals
-* [Linear Algebra](https://github.com/matheusmtta/Quantum-Computing/blob/master/Fundamentals/Linear%20Algebra.ipynb)
-* Graph Theory
-
 ## Quantum Computing
 In the following notebooks we will see detailed Quantum Computing concepts, from well-known aspects so as like Quantum Superposition and Entanglement, too simple and more complex Quantum Algorithms and its implementations in Qiskit.
 
-* Introduction
-	* Qubit and Quantum States
-	* Single Qubit Gates
-	* Multi Qubit Gates
-	* Fun stuff
 * [Algorithms](https://github.com/matheusmtta/Quantum-Computing/tree/master/Algorithms)
 	* [Deutsch-Josza Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Deutsch-Josza.ipynb)
 	* [Grover Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Grover.ipynb)
 	* [Quantum Fourier Transform](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/QFT.ipynb)
 	* [Quantum Phase Estimation](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/QPE.ipynb)
 	* Shor's Algorithm
-* Quantum Criptography
-	* BB84 Protocol
 * [Circuits](https://github.com/matheusmtta/Quantum-Computing/tree/master/Circuits)
 * [Quantum Machine Learning](https://github.com/matheusmtta/Quantum-Machine-Learning)
 	
