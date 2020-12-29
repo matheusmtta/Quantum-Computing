@@ -20,9 +20,9 @@ In the following notebooks we will see detailed Quantum Computing concepts, from
 * [Algorithms](https://github.com/matheusmtta/Quantum-Computing/tree/master/Algorithms)
 	* [Deutsch-Josza Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Deutsch-Josza.ipynb)
 	* [Grover Algorithm](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Grover.ipynb)
+	* [Quantum Phase Estimation](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Shor.ipynb)
 	* [Quantum Fourier Transform](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/QFT.ipynb)
 	* [Quantum Phase Estimation](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/QPE.ipynb)
-        * [Quantum Phase Estimation](https://github.com/matheusmtta/Quantum-Computing/blob/master/Algorithms/Shor.ipynb)
 	
 * [Circuits](https://github.com/matheusmtta/Quantum-Computing/tree/master/Circuits)
 * [Quantum Machine Learning](https://github.com/matheusmtta/Quantum-Machine-Learning)
