@@ -11,7 +11,7 @@ I am still adding the circuits notebooks, and I would STRONGLY RECOMMEND YOU to 
 * Build W State
 * [Build Bell State](https://github.com/matheusmtta/Quantum-Computing/blob/master/Circuits/BuildBell.ipynb)
 * [Quantum Fourier Transform](https://github.com/matheusmtta/Quantum-Computing/blob/master/Circuits/QFT.ipynb)
-* Fractional Quantum Fourier Transform
-* Superdense Conding
-* Quantum Teleport
-* Quantum Palindrome Checker
+[//]: <> * Fractional Quantum Fourier Transform
+[//]: <> * Superdense Conding
+[//]: <> * Quantum Teleport
+[//]: <> * Quantum Palindrome Checker
