@@ -8,11 +8,11 @@ In 1981, the Nobel laureate Richard Feynman asked, “What kind of computer are 
 
 Richard Feynman speech can be used to see how powerful quantum computing can be into letting us understand more about our universe, since quantum physics tries to explain and interpret how our universe is built from the deepest subatomic dimensions to huge macroscopic phenomena. This can lead us to ask ourselves if our classical computers are going to be able to deal with problems that nature by its essence shows us to be a quantum complex behavior, where most of them are exponential problems, which are unfeasible for classical computers to solve nowadays at a scalable time.
 
-So the question is, how quantum computers could solve these kinds of problems someday? Within a nw perspective on treating information, closer with how our universe and nature behave, from the deepest levels and beyond.
+So the question is, how quantum computers could solve these kinds of problems someday? Within a new perspective on treating information, closer with how our universe and nature behave, from the deepest levels and beyond.
 
 # About this repository
 
-This repository is focused on giving some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Quantum Algorithms, Cryptography Protocols, and Quantum Information Behavior on graphs using Quantum Walks and Algebraic Combinatorics concepts, from the theoretical aspects till Quantum Programming with the IBM Qiskit.
+This repository is focused on giving some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Algorithms, Cryptography Protocols, Machine Learning, Approximation Optimization Algorithms, and Information Behavior of graphs using Quantum Walks and Algebraic Combinatorics concepts, from the theoretical aspects till Quantum Programming with the IBM Qiskit, PennyLane and Q#.
 
 ## Quantum Computing
 In the following notebooks we will see detailed Quantum Computing concepts, from well-known aspects so as like Quantum Superposition and Entanglement, too simple and more complex Quantum Algorithms and its implementations in Qiskit.
