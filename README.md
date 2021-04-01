@@ -12,7 +12,7 @@ So the question is, how quantum computers could solve these kinds of problems so
 
 # About this repository
 
-This repository is focused on giving some knowledge about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Algorithms, Cryptography Protocols, Machine Learning, Approximation Optimization Algorithms, and Information Behavior of graphs using Quantum Walks and Algebraic Combinatorics concepts, from the theoretical aspects till Quantum Programming with the IBM Qiskit, PennyLane and Q#.
+This repository is focused discussing topics about Quantum Computing and Quantum Information Theory, from the understanding of Quantum Computing and Quantum Information Theory, where we'll discuss Algorithms, Cryptography Protocols, Machine Learning, Approximation Optimization Algorithms, and Information Behavior of graphs using Quantum Walks and Algebraic Combinatorics concepts, from the theoretical aspects till Quantum Programming with the IBM Qiskit, PennyLane and Q#.
 
 ## Quantum Computing
 In the following notebooks we will see detailed Quantum Computing concepts, from well-known aspects so as like Quantum Superposition and Entanglement, too simple and more complex Quantum Algorithms and its implementations in Qiskit.
